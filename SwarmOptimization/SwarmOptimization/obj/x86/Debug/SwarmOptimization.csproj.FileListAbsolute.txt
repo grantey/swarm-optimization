@@ -1,0 +1,27 @@
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\bin\Debug\SwarmOptimization.exe
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\bin\Debug\SwarmOptimization.pdb
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Properties.Resources.resources
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.exe
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.pdb
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.FreeGlut.dll
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.OpenGl.dll
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.Platform.Windows.dll
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Main.resources
+E:\_Documents\VGU_7semestr\Методы оптимизации\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Visualisation.resources
+F:\Методы оптимизации 7сем\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.exe
+F:\Методы оптимизации 7сем\курсовая\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.pdb
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.exe
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.pdb
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\bin\Debug\SwarmOptimization.exe
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\bin\Debug\SwarmOptimization.pdb
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.FreeGlut.dll
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.OpenGl.dll
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\bin\Debug\Tao.Platform.Windows.dll
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.csprojResolveAssemblyReference.cache
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Main.resources
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Visualisation.resources
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.Properties.Resources.resources
+C:\Anton\_Git\swarm-optimization\SwarmOptimization\SwarmOptimization\obj\x86\Debug\SwarmOptimization.csproj.GenerateResource.Cache
